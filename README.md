@@ -1,1 +1,1 @@
-# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/2bqji52683960s3o?svg=true)](https://ci.appveyor.com/project/KrisDroopy/ci)
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/5xm53l7ka4f3ilcc?svg=true)](https://ci.appveyor.com/project/KrisDroopy/postmanecho)
